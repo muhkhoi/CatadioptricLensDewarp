@@ -1,5 +1,5 @@
-# CatadioptricLensDewarp
-Dewarping spherical/panoramic view of catadioptric 360 degree lens to rectangle prespective using OpenCV 2.4.9
+# CatadioptricLensDewarpOpenCV
+Dewarping spherical/panoramic view of catadioptric/omnidirectional/360 degree lens to rectangle prespective using OpenCV 2.4.9
 this project initially done by https://github.com/kscottz/dewarp. using SimpleCV library
 purposely converted library to OpenCV in order to ease in customization.
 
